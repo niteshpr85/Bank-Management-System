@@ -7,12 +7,9 @@ A comprehensive ATM simulation application built with Java Swing GUI and SQLite 
 
 ## Detailed Project Overview
 
-
-This project impleme
-
 https://github.com/user-attachments/assets/db5d5b62-c2d3-4fde-a8f7-564b02db8dcb
 
-nts a fully functional Bank Management System that simulates ATM operations. Users can create accounts, log in, and perform various banking transactions through an intuitive graphical interface. The system uses SQLite for persistent data storage, ensuring data integrity and portability.
+This project implements a fully functional Bank Management System that simulates ATM operations. Users can create accounts, log in, and perform various banking transactions through an intuitive graphical interface. The system uses SQLite for persistent data storage, ensuring data integrity and portability.
 
 ### Purpose
 - Educational: Demonstrates Java GUI development, database integration, and secure coding practices
