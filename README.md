@@ -2,7 +2,8 @@
 
 A comprehensive ATM simulation application built with Java Swing GUI and SQLite database, designed to demonstrate core banking operations in a desktop environment.
 
----"C:\Users\nites\Videos\Screen Recordings\Screen Recording 2026-04-03 001621.mp4"
+---<img width="1063" height="599" alt="Screenshot 2026-04-02 235803" src="https://github.com/user-attachments/assets/147d0c92-a2b9-4774-9839-c61b252f7e19" />
+
 
 ## Detailed Project Overview
 
