@@ -1,0 +1,25 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Compile Bank Management System",
+      "type": "shell",
+      "command": "cd \"${workspaceFolder}\" && mkdir classes 2>nul && javac -cp \"lib/sqlite-jdbc-*.jar\" -d classes src/bank/management/system/*.java",
+      "group": "build",
+      "problemMatcher": ["$javac"]
+    },
+    {
+      "label": "Run Bank Management System",
+      "type": "shell",
+      "command": "cd \"${workspaceFolder}\" && java -cp \"lib/sqlite-jdbc-*.jar;classes;src\" bank.management.system.Login",
+      "group": "none",
+      "dependsOn": "Compile Bank Management System"
+    },
+    {
+      "label": "Run via run.bat",
+      "type": "shell",
+      "command": "cd \"${workspaceFolder}\" && run.bat",
+      "group": "none"
+    }
+  ]
+}

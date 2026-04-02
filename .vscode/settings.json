@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "Bank-Management-System--master/src"
+    ],
+    "java.project.outputPath": "classes"
+}
